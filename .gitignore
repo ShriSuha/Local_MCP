@@ -12,3 +12,6 @@ wheels/
 # Local data
 sqlite.db
 tasks.json
+
+# Slack (and other) secrets — copy .env.example to .env and fill in
+.env
